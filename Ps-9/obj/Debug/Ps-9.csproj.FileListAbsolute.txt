@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Ps-9_Day-09\Ps-9\bin\Debug\Ps-9.exe.config
+C:\Users\Admin\source\repos\Ps-9_Day-09\Ps-9\bin\Debug\Ps-9.exe
+C:\Users\Admin\source\repos\Ps-9_Day-09\Ps-9\bin\Debug\Ps-9.pdb
+C:\Users\Admin\source\repos\Ps-9_Day-09\Ps-9\obj\Debug\Ps-9.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Ps-9_Day-09\Ps-9\obj\Debug\Ps-9.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Ps-9_Day-09\Ps-9\obj\Debug\Ps-9.exe
+C:\Users\Admin\source\repos\Ps-9_Day-09\Ps-9\obj\Debug\Ps-9.pdb
